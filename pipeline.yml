@@ -1,0 +1,6 @@
+name: Offline ML Pipeline
+
+steps:
+  - Install libraries
+  - Train model
+  - Test model
